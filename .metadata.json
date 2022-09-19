@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "metajam",
-    "oncran": true
-  },
-  {
     "package": "rt",
     "oncran": true
   }
