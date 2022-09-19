@@ -8,6 +8,11 @@
 	url = https://github.com/nceas/codyn
 	shallow = true
 	registered = true
+[submodule "metajam"]
+	path = metajam
+	url = https://github.com/nceas/metajam
+	shallow = true
+	registered = true
 [submodule "rt"]
 	path = rt
 	url = https://github.com/nceas/rt
