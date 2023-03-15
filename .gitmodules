@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rt"]
+	path = rt
+	url = https://github.com/nceas/rt
+	shallow = true
+	registered = true
 [submodule "codyn"]
 	path = codyn
 	url = https://github.com/nceas/codyn
@@ -11,10 +16,5 @@
 [submodule "metajam"]
 	path = metajam
 	url = https://github.com/nceas/metajam
-	shallow = true
-	registered = true
-[submodule "rt"]
-	path = rt
-	url = https://github.com/nceas/rt
 	shallow = true
 	registered = true
