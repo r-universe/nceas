@@ -18,3 +18,8 @@
 	url = https://github.com/nceas/rt
 	shallow = true
 	registered = true
+[submodule "scicomptools"]
+	path = scicomptools
+	url = https://github.com/nceas/scicomptools
+	shallow = true
+	registered = true
