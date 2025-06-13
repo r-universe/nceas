@@ -1,16 +1,28 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nceas/nceas.r-universe.dev
 	branch = HEAD
+[submodule "EML"]
+	path = EML
+	url = https://github.com/ropensci/EML
+[submodule "arcticdatautils"]
+	path = arcticdatautils
+	url = https://github.com/NCEAS/arcticdatautils
 [submodule "codyn"]
 	path = codyn
-	url = https://github.com/nceas/codyn
+	url = https://github.com/NCEAS/codyn
+[submodule "datamgmt"]
+	path = datamgmt
+	url = https://github.com/NCEAS/datamgmt
+[submodule "emld"]
+	path = emld
+	url = https://github.com/ropensci/emld
+[submodule "flowers"]
+	path = flowers
+	url = https://github.com/NCEAS/flowers
 [submodule "metajam"]
 	path = metajam
-	url = https://github.com/nceas/metajam
+	url = https://github.com/NCEAS/metajam
 [submodule "rt"]
 	path = rt
-	url = https://github.com/nceas/rt
-[submodule "scicomptools"]
-	path = scicomptools
-	url = https://github.com/nceas/scicomptools
+	url = https://github.com/NCEAS/rt
