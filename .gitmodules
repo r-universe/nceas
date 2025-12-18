@@ -26,3 +26,6 @@
 [submodule "rt"]
 	path = rt
 	url = https://github.com/NCEAS/rt
+[submodule "vegbankr"]
+	path = vegbankr
+	url = https://github.com/NCEAS/vegbankr
