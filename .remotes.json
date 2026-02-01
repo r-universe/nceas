@@ -1,8 +1,0 @@
-[
-  {
-    "package": "arcticdatautils",
-    "url": "https://github.com/NCEAS/arcticdatautils",
-    "via": ["datamgmt"],
-    "from": "datamgmt"
-  }
-]
