@@ -29,3 +29,6 @@
 [submodule "vegbankr"]
 	path = vegbankr
 	url = https://github.com/NCEAS/vegbankr
+[submodule "vegbankweb"]
+	path = vegbankweb
+	url = https://github.com/NCEAS/vegbank-web
